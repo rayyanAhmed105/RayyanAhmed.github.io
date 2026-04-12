@@ -236,6 +236,7 @@ a { color: var(--accent); text-decoration: none; }
   height:32px;
   font-size: 1.5rem;
   text-decoration: none;
+  gap: 15px;
 }
 
 .social-links i {
