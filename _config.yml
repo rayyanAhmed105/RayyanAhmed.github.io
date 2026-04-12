@@ -1,5 +1,5 @@
 title: "Rayyan Ahmed — Data Science"
-description: ""
+description: "kkk"
 baseurl: ""
 url: ""
 markdown: kramdown
@@ -9,7 +9,7 @@ defaults:
   - scope: { path: "" }
     values:
       layout: default
-author: "Rayyan Ahmmed"
+author: "Rayyan Ahmed"
 github_username: "rayyanAhmed105"
 medium_username: "RayyanElfadel"
 exclude:
