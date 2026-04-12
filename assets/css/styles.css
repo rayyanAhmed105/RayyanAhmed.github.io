@@ -245,11 +245,7 @@ a { color: var(--accent); text-decoration: none; }
   align-items: center;
   gap: 12px;
 }
-.social-links img {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-}
+
 /* Brand colors */
 .social-links a[href*="linkedin"] i { color: #0a66c2; }
 .social-links a[href*="youtube"]  i { color: #ff0000; }
