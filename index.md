@@ -21,15 +21,15 @@ title: "Home"
 
 <section id="about" class="section">
   <div class="about-container">
-    <img src="{{ '/assets/images/me.jfif' | relative_url }}"
+    <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
          alt="Rayyan Ahmed"
          class="profile-pic">
 
     <div class="about-text">
       <h1>Rayyan Ahmed</h1>
-      <p>Data Science | Research | Deep Learning </p>
+      <p>Data Science | Research | Deep Learning</p>
       <p>I work across data science, analytics, and machine learning, transforming data into actionable insights and practical solutions. My experience includes data analysis, dashboard development, statistical modeling, and machine learning across real-world applications.</p>
-      <p><strong>Core skills:</strong> Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau · Data Analysis · Machine Learning · Statistics · Data Visualization · Git</p>
+      <p><strong>Core skills:</strong>Python · SQL · Pandas · NumPy · Scikit-learn · PyTorch · TensorFlow · Power BI · Tableau · Data Analysis · Machine Learning · Statistics · Data Visualization · Git</p>
 
       <p class="social-links">
         <a href="https://www.linkedin.com/in/rayyan-ahmed-82a3749a/" target="_blank" aria-label="LinkedIn">
@@ -108,7 +108,7 @@ title: "Home"
 <section id="articles" class="section">
   <div class="section-header">
     <h2>✍️ Articles</h2>
-    <a class="view-all" href="https://scholar.google.com/citations?hl=en&user=j9wCpRgAAAAJ" target="_blank" rel="noopener">Google Scholar →</a>
+    <a class="view-all" href="https://medium.com/@{{ site.medium_username }}" target="_blank" rel="noopener">Medium →</a>
   </div>
 
   {% assign articles_count = site.data.articles | size %}
