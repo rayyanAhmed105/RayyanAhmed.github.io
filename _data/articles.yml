@@ -5,7 +5,7 @@
   stack: "PyTorch · Deep Learning · Computer Vision · Medical Imaging "
 
   - title: "Predicting Overall Survival in METABRIC Cohort Using Machine Learning"
-  link: "https://europepmc.org/article/med/37387111"
+  link: "https://europepmc.org/article/med/37387111" 
   subtitle: "ICIMTH, 2023."
   image: "/assets/images/article_2.png"
   stack: "Computational Bioinformatics · Deep Learning"
