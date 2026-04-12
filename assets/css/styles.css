@@ -236,15 +236,20 @@ a { color: var(--accent); text-decoration: none; }
   height:32px;
   font-size: 1.5rem;
   text-decoration: none;
-  gap: 15px;
 }
 
 .social-links i {
   font-size: 1.5rem;
   line-height: 1;
   color: inherit;
+  align-items: center;
+  gap: 12px;
 }
-
+.social-links img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
 /* Brand colors */
 .social-links a[href*="linkedin"] i { color: #0a66c2; }
 .social-links a[href*="youtube"]  i { color: #ff0000; }
