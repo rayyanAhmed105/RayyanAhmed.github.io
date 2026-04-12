@@ -36,7 +36,7 @@ title: "Home"
           <i class="fa-brands fa-linkedin"></i>
         </a>
           <a href="https://scholar.google.com/citations?hl=en&user=j9wCpRgAAAAJ" target="_blank">
-            <img src="{{ '/assets/images/google-scholar.png' | relative_url }}" alt="Google Scholar">
+            <img src="{{ '/assets/images/google-scholar.png' | relative_url }}" alt="Google Scholar"> 
           </a>
         
           <a href="YOUR_GITHUB" target="_blank">
