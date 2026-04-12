@@ -26,7 +26,7 @@ title: "Home"
          class="profile-pic">
 
     <div class="about-text">
-      <h1>Hello World! I'm Rayyan Ahmed</h1>
+      <h1>Rayyan Ahmed</h1>
       <p>Data Science | Research | Deep Learning </p>
       <p>I work across data science, analytics, and machine learning, transforming data into actionable insights and practical solutions. My experience includes data analysis, dashboard development, statistical modeling, and machine learning across real-world applications.</p>
       <p><strong>Core skills:</strong> Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau · Data Analysis · Machine Learning · Statistics · Data Visualization · Git</p>
