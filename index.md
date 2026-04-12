@@ -39,7 +39,7 @@ title: "Home"
             <img src="{{ '/assets/images/google-scholar.png' | relative_url }}" alt="Google Scholar">
           </a>
         
-          <a href="https://github.com/rayyanAhmed105" target="_blank">
+          <a href="YOUR_GITHUB" target="_blank">
             <i class="fa-brands fa-github"></i>
           </a>
       </p>
