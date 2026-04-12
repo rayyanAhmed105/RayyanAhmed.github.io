@@ -26,13 +26,13 @@ title: "Home"
          class="profile-pic">
 
     <div class="about-text">
-      <h1>Hello World! I'm Michael Shoemaker</h1>
-      <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
-      <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-      <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
+      <h1>Hello World! I'm Rayyan Ahmed</h1>
+      <p>Data Science | Researcher | Deep Learning </p>
+      <p>I work across data science, analytics, and machine learning, transforming data into actionable insights and practical solutions. My experience includes data analysis, dashboard development, statistical modeling, and machine learning across real-world applications.</p>
+      <p><strong>Core skills:</strong> Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow · Power BI · Tableau · Data Analysis · Machine Learning · Statistics · Data Visualization · Git</p>
 
       <p class="social-links">
-        <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/rayyan-ahmed-82a3749a/" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
         <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
