@@ -22,7 +22,7 @@ title: "Home"
 <section id="about" class="section">
   <div class="about-container">
     <img src="{{ '/assets/images/me.jfif' | relative_url }}"
-         alt="Michael Shoemaker"
+         alt="Rayyan Ahmed"
          class="profile-pic">
 
     <div class="about-text">
