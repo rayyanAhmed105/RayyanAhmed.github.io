@@ -2,4 +2,22 @@
   link: "https://link.springer.com/article/10.1007/s11263-025-02658-2"
   subtitle: "Published in International Journal of Computer Vision (IJCV)."
   image: "/assets/images/IJCV_article.png"
-  stack: "Deep Learning · Computer Vision · Medical Imaging · PyTorch · Python"
+  stack: "PyTorch · Deep Learning · Computer Vision · Medical Imaging "
+
+  - title: "Predicting Overall Survival in METABRIC Cohort Using Machine Learning"
+  link: "https://europepmc.org/article/med/37387111"
+  subtitle: "ICIMTH, 2023."
+  image: "/assets/images/article_2.png"
+  stack: "Computational Bioinformatics · Deep Learning"
+
+- title: "Left Ventricular Wall Motion Estimation for Myocardial Infarction Detection"
+  link: "https://ieeexplore.ieee.org/abstract/document/9261387"
+  subtitle: "IEEE Access, 2020."
+  image: "/assets/images/article_3.png"
+  stack: "Computer Vision · Video Tracking · MATLAB"
+
+- title: "Selective Gas Sensors Using Graphene and CuO Nanorods"
+  link: "https://scholar.google.com/citations?hl=en&user=j9wCpRgAAAAJ"
+  subtitle: "Sensors and Actuators A, 2018."
+  image: "/assets/images/article_4.png"
+  stack: "Data Analysis · Experimental Analysis · Signal Processing"
