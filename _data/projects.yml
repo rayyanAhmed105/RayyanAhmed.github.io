@@ -14,7 +14,7 @@
   link: "https://medium.com/@RayyanElfadel/building-a-fast-ai-chest-x-ray-images-classification-model-using-google-colab-8f794689ede3"
   description: "Built a chest X-ray image classification model in Google Colab using fast.ai and transfer learning with ResNet50"
   stack: "Python · Deep Learning · Medical Imaging"
-  image: "/assets/imagesfastAi_project.png"
+  image: "/assets/images/fastAi_project.png"
   
 - title: "Periodic Noise Removal from Images in MATLAB"
   link: "https://medium.com/@RayyanElfadel/removing-periodic-noise-from-an-image-in-matlab-8e89f042221d"
