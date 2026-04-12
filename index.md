@@ -103,6 +103,7 @@ title: "Home"
   {% endif %}
 </section>
 
+
 <!-- ===================== Articles ===================== -->
 <section id="articles" class="section">
   <div class="section-header">
@@ -124,9 +125,8 @@ title: "Home"
                  {% if item.preview_gif %}data-preview="{{ item.preview_gif | relative_url }}"{% endif %}>
           </a>
           <div class="card-body">
-<h3 class="card-title"><a href="{{ item.link }}">{{ item.title }}</a></h3>
-{% if item.subtitle %}<p class="card-text">{{ item.subtitle }}</p>{% endif %}
-{% if item.stack %}<p class="card-tags">{{ item.stack }}</p>{% endif %}
+            <h3 class="card-title"><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+            {% if item.subtitle %}<p class="card-text">{{ item.subtitle }}</p>{% endif %}
             <div class="card-actions">
               {% if item.screenshot %}<a href="#" class="btn ghost" data-lightbox-src="{{ item.screenshot | relative_url }}">Preview</a>{% endif %}
               <a class="btn" href="{{ item.link }}" target="_blank" rel="noopener">Read</a>
@@ -146,9 +146,8 @@ title: "Home"
                alt="{{ item.title | escape }} thumbnail" loading="lazy">
         </a>
         <div class="card-body">
-<h3 class="card-title"><a href="{{ item.link }}">{{ item.title }}</a></h3>
-{% if item.subtitle %}<p class="card-text">{{ item.subtitle }}</p>{% endif %}
-{% if item.stack %}<p class="card-tags">{{ item.stack }}</p>{% endif %}
+          <h3 class="card-title"><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+          {% if item.subtitle %}<p class="card-text">{{ item.subtitle }}</p>{% endif %}
           <div class="card-actions">
             {% if item.screenshot %}<a href="#" class="btn ghost" data-lightbox-src="{{ item.screenshot | relative_url }}">Preview</a>{% endif %}
             <a class="btn" href="{{ item.link }}" target="_blank" rel="noopener">Read</a>
