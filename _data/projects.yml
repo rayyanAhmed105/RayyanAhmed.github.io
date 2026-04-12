@@ -10,11 +10,15 @@
   stack: "Graph Analysis · Network Optimization · Python"
   image: "/assets/images/project_OpenStreertMap.webp"
 
-- title: "Airflow in Docker on GCP setup with Terraform"
-  link: "https://github.com/MichaelShoemaker/Terraform-Docker-Airflow-GCP"
-  description: "A mostly automated way to setup Airflow on a GCP VM with Terraform"
-  stack: "GCP · Docker · Terraform · Airflow"
-  image: "/assets/images/TerraformDockerAirflow.png"
-  preview_gif: "/assets/images/TerraformDockerAirflow.png"
-  screenshot: "/assets/images/TerraformDockerAirflow.png"
+- title: "Classification with fast.ai"
+  link: "https://medium.com/@RayyanElfadel/building-a-fast-ai-chest-x-ray-images-classification-model-using-google-colab-8f794689ede3"
+  description: "Built a chest X-ray image classification model in Google Colab using fast.ai and transfer learning with ResNet50"
+  stack: "Python · Deep Learning · Medical Imaging"
+  image: "/assets/imagesfastAi_project.png"
+  
+- title: "Periodic Noise Removal from Images in MATLAB"
+  link: "https://medium.com/@RayyanElfadel/removing-periodic-noise-from-an-image-in-matlab-8e89f042221d"
+  description: "Applied frequency-domain filtering in MATLAB to identify and remove periodic noise from RGB images."
+  stack: "MATLAB · Image Processing · Computer Vision"
+  image: "/assets/images/CV_project.png"
 
