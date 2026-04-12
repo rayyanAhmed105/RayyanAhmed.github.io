@@ -35,8 +35,8 @@ title: "Home"
         <a href="https://www.linkedin.com/in/rayyan-ahmed-82a3749a/" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
-          <a href="https://scholar.google.com/citations?hl=en&user=ueNkFakAAAAJ" target="_blank">
-            <img src="/assets/images/google-scholar.svg" alt="Google Scholar" style="height:20px;">
+          <a href="https://scholar.google.com/citations?hl=en&user=j9wCpRgAAAAJ" target="_blank">
+            <img src="/assets/images/google-scholar.png" alt="Google Scholar" style="height:20px;">
           </a>
       </p>
     </div>
