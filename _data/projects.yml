@@ -8,7 +8,7 @@
   link: "https://medium.com/@RayyanElfadel/how-to-download-a-network-similar-to-google-maps-solving-shortest-path-problem-in-colab-ff22f6d92d3e"
   description: "Constructed and analyzed road network graphs from OpenStreetMap data to compute shortest paths using graph algorithms"
   stack: "Graph Analysis · Network Optimization · Python"
-  image: "/assets/images/DivvyDataDiagram.jpeg"
+  image: "/assets/images/project_OpenStreertMap.webp"
 
 - title: "Airflow in Docker on GCP setup with Terraform"
   link: "https://github.com/MichaelShoemaker/Terraform-Docker-Airflow-GCP"
