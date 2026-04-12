@@ -54,7 +54,7 @@ title: "Home"
   </div>
 
   {% assign projects_count = site.data.projects | size %}
-  {% if projects_count > 4 %}
+  {% if projects_count > 3 %}
     <div class="carousel">
       <button class="scroll-btn left" data-target="#projects-track" aria-label="Scroll projects left">‹</button>
       <div id="projects-track" class="carousel-track" role="region" aria-label="Projects list">
@@ -112,7 +112,7 @@ title: "Home"
   </div>
 
   {% assign articles_count = site.data.articles | size %}
-  {% if articles_count > 4 %}
+  {% if articles_count > 3 %}
     <div class="carousel">
       <button class="scroll-btn left" data-target="#articles-track" aria-label="Scroll articles left">‹</button>
       <div id="articles-track" class="carousel-track" role="region" aria-label="Articles list">
