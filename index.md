@@ -108,7 +108,7 @@ title: "Home"
 <section id="articles" class="section">
   <div class="section-header">
     <h2>✍️ Articles</h2>
-    <a class="view-all" href="https://medium.com/@{{ site.medium_username }}" target="_blank" rel="noopener">Medium →</a>
+    <a class="view-all" href="https://scholar.google.com/citations?user=j9wCpRgAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar →</a>
   </div>
 
   {% assign articles_count = site.data.articles | size %}
