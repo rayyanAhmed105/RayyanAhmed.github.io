@@ -35,12 +35,12 @@ title: "Home"
         <a href="https://www.linkedin.com/in/rayyan-ahmed-82a3749a/" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
-          <a href="https://scholar.google.com/citations?hl=en&user=j9wCpRgAAAAJ" target="_blank" aria-label="Google Scholar">
-    <i class="fa-solid fa-graduation-cap"></i>
-        
-          <a href="YOUR_GITHUB" target="_blank">
-            <i class="fa-brands fa-github"></i>
-          </a>
+        <a href="https://scholar.google.com/citations?hl=en&user=j9wCpRgAAAAJ" target="_blank" aria-label="Google Scholar">
+          <i class="fa-solid fa-graduation-cap"></i>
+        </a>
+        <a href="https://github.com/rayyanAhmed105" target="_blank" aria-label="GitHub">
+          <i class="fa-brands fa-github"></i>
+        </a>
       </p>
     </div>
   </div>
