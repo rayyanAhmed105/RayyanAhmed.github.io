@@ -4,4 +4,17 @@
   stack: "Web Scraping · Exploratory Data Analysis · Python"
   image: "/assets/images/cover_hyrox_project.png"
 
+- title: "Shortest Path Analysis on Road Networks (OSM Data)"
+  link: "https://medium.com/@RayyanElfadel/how-to-download-a-network-similar-to-google-maps-solving-shortest-path-problem-in-colab-ff22f6d92d3e"
+  description: "Constructed and analyzed road network graphs from OpenStreetMap data to compute shortest paths using graph algorithms"
+  stack: "Graph Analysis · Network Optimization · Python"
+  image: "/assets/images/DivvyDataDiagram.jpeg"
+
+- title: "Airflow in Docker on GCP setup with Terraform"
+  link: "https://github.com/MichaelShoemaker/Terraform-Docker-Airflow-GCP"
+  description: "A mostly automated way to setup Airflow on a GCP VM with Terraform"
+  stack: "GCP · Docker · Terraform · Airflow"
+  image: "/assets/images/TerraformDockerAirflow.png"
+  preview_gif: "/assets/images/TerraformDockerAirflow.png"
+  screenshot: "/assets/images/TerraformDockerAirflow.png"
 
