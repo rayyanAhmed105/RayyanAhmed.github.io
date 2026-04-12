@@ -1,7 +1,7 @@
 title: "Rayyan Ahmed — Data Science"
-description: "kkk"
-baseurl: ""
-url: ""
+description: ""
+baseurl: "/RayyanAhmed.github.io"
+url: "https://rayyanahmed105.github.io"
 markdown: kramdown
 theme: null
 plugins: []
