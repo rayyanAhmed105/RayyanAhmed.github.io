@@ -1,7 +1,7 @@
 - title: "HYROX Doha 2024: Web Data Collection & Exploratory Data Analysis"
-  link: "https://github.com/MichaelShoemaker/history_of_rome_podcast_llm"
+  link: "https://medium.com/@RayyanElfadel/hyrox-doha-2024-data-insights-gender-inclusion-toughest-hyrox-stations-29dddf077fe6"
   description: "Collected HYROX Doha 2024 web data and performed exploratory data analysis to identify trends and patterns. Generated insights on participation and performance variability."
   stack: "Web Scraping · Exploratory Data Analysis · Python"
-  image: "/assets/images/cover_hyrox_project.gif"
+  image: "/assets/images/cover_hyrox_project.png"
 
 
