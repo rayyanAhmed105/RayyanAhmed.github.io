@@ -1,8 +1,9 @@
 - title: "A Lightweight Hybrid Gabor Deep Learning Approach"
   link: "https://link.springer.com/article/10.1007/s11263-025-02658-2"
-  subtitle: "Published in International Journal of Computer Vision (IJCV)."
+  subtitle: "Published in International Journal of Computer Vision (IJCV).
+  Skills: PyTorch · Deep Learning · Computer Vision · Medical Imaging "
   image: "/assets/images/IJCV_article.png"
-  stack: "PyTorch · Deep Learning · Computer Vision · Medical Imaging "
+
 
   - title: "Predicting Overall Survival in METABRIC Cohort Using Machine Learning"
   link: "https://europepmc.org/article/med/37387111" 
