@@ -1,3 +1,9 @@
+- title: "AI Sprint Execution Planner"
+  link: "YOUR_PARTYROCK_LINK"
+  description: "Built a reusable AI-powered productivity workflow using Amazon PartyRock to transform loosely defined goals into structured execution plans, prioritized tasks, AI-assisted workflows, and operational risk assessments."
+  stack: "Prompt Engineering · Generative AI · Amazon PartyRock · Amazon Bedrock"
+  image: "/assets/images/cover_ai_sprint_execution_planner.png"
+  
 - title: "HYROX Doha: Web Data Collection & Exploratory Data Analysis"
   link: "https://medium.com/@RayyanElfadel/hyrox-doha-2024-data-insights-gender-inclusion-toughest-hyrox-stations-29dddf077fe6"
   description: "Collected HYROX Doha 2024 web data and performed exploratory data analysis to identify trends and patterns. Generated insights on participation and performance variability."
