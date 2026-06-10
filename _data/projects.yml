@@ -1,3 +1,10 @@
+- title: "Qatar-to-Monet Image Translation"
+  link: "https://github.com/rayyanAhmed105/Projects/tree/main/qatar-to-monet-cyclegan"
+  description: "Developed a CycleGAN-based image-to-image translation workflow to transform photographs of Qatar landmarks into Monet-inspired visuals, with model benchmarking, content-preservation analysis, and super-resolution."
+  stack: "Generative AI · CycleGAN · TensorFlow · Computer Vision · Image-to-Image Translation"
+  image: "/assets/images/AI_Multimedia_Final_Project_ppt_page-0014.jpg"
+  preview_gif: "/assets/images/AI_Multimedia_Final_Project_ppt_page-0014.jpg"
+    
 - title: "AI Sprint Execution Planner"
   link: "https://partyrock.aws/u/Rayyan105/7VBkKa-Gu/AI-Sprint-Execution-Planner"
   description: "Built a reusable AI-powered productivity workflow using Amazon PartyRock to transform loosely defined goals into structured execution plans, prioritized tasks, AI-assisted workflows, and operational risk assessments."
