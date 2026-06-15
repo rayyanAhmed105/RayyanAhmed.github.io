@@ -1,3 +1,10 @@
+- title: "Classification with fast.ai"
+  link: "https://medium.com/@RayyanElfadel/building-a-fast-ai-chest-x-ray-images-classification-model-using-google-colab-8f794689ede3"
+  description: "Built a chest X-ray image classification model in Google Colab using fast.ai and transfer learning with ResNet50"
+  stack: "Python · Deep Learning · Medical Imaging"
+  image: "/assets/images/fastAi_project.png"
+  preview_gif: "/assets/images/fastAi_project.png" 
+  
 - title: "Qatar-to-Monet Image Translation"
   link: "https://github.com/rayyanAhmed105/Projects/tree/main/qatar-to-monet-cyclegan"
   description: "Developed a CycleGAN-based image-to-image translation workflow to transform photographs of Qatar landmarks into Monet-inspired visuals, with model benchmarking, content-preservation analysis, and super-resolution."
@@ -25,14 +32,7 @@
   stack: "Graph Analysis · Network Optimization · Python"
   image: "/assets/images/project_OpenStreertMap.webp"
   preview_gif: "/assets/images/project_OpenStreertMap.webp"
-  
-- title: "Classification with fast.ai"
-  link: "https://medium.com/@RayyanElfadel/building-a-fast-ai-chest-x-ray-images-classification-model-using-google-colab-8f794689ede3"
-  description: "Built a chest X-ray image classification model in Google Colab using fast.ai and transfer learning with ResNet50"
-  stack: "Python · Deep Learning · Medical Imaging"
-  image: "/assets/images/fastAi_project.png"
-  preview_gif: "/assets/images/fastAi_project.png" 
-  
+
 - title: "Periodic Noise Removal from Images in MATLAB"
   link: "https://medium.com/@RayyanElfadel/removing-periodic-noise-from-an-image-in-matlab-8e89f042221d"
   description: "Applied frequency-domain filtering in MATLAB to identify and remove periodic noise from RGB images."
